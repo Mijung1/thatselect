@@ -1,15 +1,3 @@
-นี่คือไฟล์ README.md ที่เขียนแบบ Bilingual (ไทย-อังกฤษ) ในไฟล์เดียวครับ
-
-สไตล์การเขียน:
-
-ทางการ & กระชับ (Professional & Concise): ไม่อารัมภบทเยอะ ตรงเข้าประเด็นเทคนิค
-
-Human-Written Feel: ใช้คำศัพท์ที่ Dev คุยกันจริงๆ (เช่น "Client-side", "CORS", "Payload") ตัดคำฟุ่มเฟือยแบบ AI ทิ้งไป
-
-คุณสามารถ Copy โค้ดด้านล่างไปสร้างไฟล์ README.md ได้เลยครับ
-
-Markdown
-
 # Thailand District Selector / ระบบเลือกพื้นที่รายอำเภอ
 
 **[English]**
